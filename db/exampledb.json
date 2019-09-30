@@ -1,0 +1,17 @@
+
+{
+  "data_example": [
+    {
+      "username":"Toto",
+      "email":"toto" 
+    },
+    {
+      "username":"julien",
+      "email":"test" 
+    }
+  ],
+  "desc_example": [
+    "username",
+    "email"
+  ]
+}
